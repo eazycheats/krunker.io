@@ -1,10 +1,4 @@
 # Krunker.io Hack
-### Scammers and people who stole this script (don't install their scripts as they're all outdated and stolen, thanks!):
-- qHook, quake
-- jabbidle
-- Mr.Coder
-- Everyone on greasyfork
-
 ### Features:
 - Aimbot (Triggerbot, Quickscoper, Manual, Hip fire) (Various Ranges)
 - FPS Counter
@@ -31,11 +25,7 @@
 - Tampermonkey
 - ES6 Support
 
-### Userscript: [CLICK HERE](https://raw.githubusercontent.com/xF4b3r/krunker.io-hack/master/userscript.user.js)
+### Userscript: [CLICK HERE](https://github.com/eazycheats/krunker.io/raw/master/userscript.user.js)
 
 ### Collaborators:
-- William Thomson
-- Tehchy
-
-### Preview:
-![](https://i.imgur.com/bd1gjNS.png?raw=true)
+- Eazy
